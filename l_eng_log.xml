@@ -1,0 +1,545 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Player phrases-->
+
+<text>
+	<id>1</id>
+	<name>Tôi không còn chảy máu.</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>Tôi đang hồi phục.</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>Máu đang chảy.</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>Lạnh quá đi.</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>Đói chết mất.</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>Khát nước quá.</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>Có gì đó hay ho trong cốp.</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>Không có gì trong cốp.</name>
+</text>
+
+<!--Player phrase: when no ammo for reloading-->
+<text>
+	<id>9</id>
+	<name>Hết Đạn</name>
+</text>
+<!--Player phrase: when ranged weapon is empited-->
+<text>
+	<id>10</id>
+	<name>Băng đạn rỗng</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Vũ khí đã hỏng!</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>Không có nước trong máy bơm.</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>Tôi không cảm thấy khát</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>Tôi vừa ăn thịt sống.</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>Cần máy bơm để đổ đầy.</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>Đã đổ đầy nước</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>Ăn.</name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>Uống.</name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>Sử Dụng.</name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>Băng đạn đầy.</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>Tôi đang thay Đạn.</name>
+</text>
+
+<!--Player phrase: when trying to load wrong ammo-->
+<text>
+	<id>34</id>
+	<name>Không khớp.</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>Tôi sử dụng băng gạt.</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>Máu tôi đã ngưng chảy.</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Truyền máu hoàn tất.</name>
+</text>
+
+<!--Player phrase: when trying to load battery to nvg/headlamp-->
+<text>
+	<id>38</id>
+	<name>Đã xạc pin</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>Cần đèn đội đầu hay NVG.</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>Cần bộ lửa trại trên đất để đốt.</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>Uống rượu whiskey.</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Truyền nước muối xong</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>Tôi vừa ăn vitamins.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Vũ khí đã hỏng</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>Tôi vừa làm sạch vũ khí</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>Sử dụng thuốc kháng sinh</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>Đổ xăng cho xe</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>Cần lại gần 1 chiếc xe để thực hiện</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>Chai rỗng.</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>Uống nước từ chai.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Bi đông rỗng.</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>Uống nước từ bi đông</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Đặt mìn mặt đất</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Đặt bẫy gấu</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>Đã sửa xe.</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>Nướng thịt.</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>Cần lửa trại đang cháy để thực hiện.</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>Ăn thịt chín</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>Đang uống Nuko Cola. Thật tuyệt vời!</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Xẻ Thịt</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Không có gì để xẻ.</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>Túi đầy.</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>Dao đã hỏng</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>Cần thêm que gỗ để tiến hành.</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>Đèn đội đầu đã hỏng</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>NVG đã hỏng.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>Uống Kvas.</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>Cần cái cuốc, xiên rơm hoặc xẻng.</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Không thể trồng ở đây.</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Trồng.</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>Chặn</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>Cần dao để sẽ thịt.</name>
+</text>
+
+<!-- When trying to switch to firearm and you dont have any  -->
+<text>
+	<id>73</id>
+	<name>Không có vũ khí tầm xa.</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>Chọn vị trí ném pháo sáng.</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Chọn vị trí ném lựu đạn.</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>Đã đầy.</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>Uống nước từ máy bơm.</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>Muốn ăn cái gì đó quá.</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>Muốn uống cái gì đó quá.</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>Chà lạnh quá!</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>Bớt lạnh hơn rồi.</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>Ấm quá!</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>Cần thay pin.</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>Có vẻ gần đây không có khu quân sự.</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>Có vẻ gần đây có khu quân sự.</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>100</id>
+	<name>Chết tiệt tôi bị thương nặng quá</name>
+</text>
+
+<!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
+<text>
+	<id>101</id>
+	<name>Ok, tôi sẽ canh chừng.</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>Tôi sẽ quan sát khi cậu nhặt đồ.</name>
+</text>
+
+<!-- Friend bots phrase: when player gets on firing line -->
+<text>
+	<id>103</id>
+	<name>Cậu đang chắn đường tôi đấy!</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>104</id>
+	<name>Hey! Hey! Team up nào! bro!</name>
+</text>
+
+<!-- Enemy Melee bot phrases on getting hit from firearm-->
+<text>
+	<id>105</id>
+	<name>Không công bằng!</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Chết tiệt hắn ta có súng!</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>Đậu xanh!</name>
+</text>
+
+<!-- Enemy Bot with firearm when spots player -->
+<text>
+	<id>108</id>
+	<name>Cút khỏi đây ngay!</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>Nhận lấy đi đồ khốn!</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>Tao thấy mày rồi hehe!</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>Tôi không có gì để trao đổi. Bro thử hỏi người khác xem.</name>
+</text>
+
+<!-- Additional player phrases -->
+
+<text>
+	<id>125</id>
+	<name>Chúng tôi thân thiện</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Tốt lắm.</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Cảm ơn đã sửa thuyền cho bọn tao</name>
+</text>
+
+<!-- Update 1.2.0 addings -->
+
+<text>
+	<id>86</id>
+	<name>Súng không thể cưa.</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>Cửa đã bị hỏng.</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>Có khí ga ở đây, cần mặt nạ khí ga!</name>
+</text>
+
+<!-- Update 1.3.0 addings -->
+
+<text>
+	<id>89</id>
+	<name>Cần chiếc xe sử dụng được.</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>Không thể làm điều đó trong xe.</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>Xe vẫn còn trong tình trạng tốt.</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>Xe đã đầy xăng.</name>
+</text>
+
+<!-- Quests -->
+
+<text>
+	<id>131</id>
+	<name>Tôi không còn gì để nói</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>Cần hồ hoặc biển để dùng.</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>Chả câu được con cá nào.</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>Không bị mắc bệnh.</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>Cảm ơn đã giúp. Chúng tôi sẽ rồi đi sớm.</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>Có 1 ghi chú về 1 vị trí trên bản đồ</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>Cảm ơn! Tôi sẽ cho cậu biết 1 điểm thú vị trên bản đồ.</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>Thấy rồi!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>Chết tiệt, chạy thôi.</name>
+</text>
+
+</list>
