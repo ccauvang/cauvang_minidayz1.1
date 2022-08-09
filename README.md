@@ -5,4 +5,4 @@
 ### cauvang_minidayz1.1
 ***
 
-# [chơi trên web](https://ccauvang.github.io/cauvang_minidayz1.1/)
+# [chơi thử](https://ccauvang.github.io/cauvang_minidayz1.1/)
